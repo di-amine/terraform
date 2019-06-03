@@ -1,0 +1,33 @@
+  "subscriptionId": "556a0c5a-db12-4235-9bfa-a81b7f67b4d9",
+  "tenantId": "923c17c9-0f6d-49ff-83d7-0e8f3e74e930"
+
+    "cloudName": "AzureCloud",
+    "id": "556a0c5a-db12-4235-9bfa-a81b7f67b4d9",
+    "isDefault": true,
+    "name": "Essai gratuit",
+    "state": "Enabled",
+    "tenantId": "923c17c9-0f6d-49ff-83d7-0e8f3e74e930",
+    "user": {
+      "name": "di-amine@hotmail.fr",
+      "type": "user"
+
+    "cloudName": "AzureCloud",
+    "id": "cf2be2cb-24b7-4cb0-ba3c-7bdb3966bf29",
+    "isDefault": false,
+    "name": "Essai gratuit",
+    "state": "Enabled",
+    "tenantId": "c5f6facd-611b-45fb-abf1-64a5d16a35f7",
+    "user": {
+      "name": "di-amine@hotmail.fr",
+      "type": "user"
+
+
+
+  "appId": "b3090aaa-9ceb-431b-8736-fd0db0c8e737",
+  "displayName": "azure-cli-2019-05-22-09-11-09",
+  "name": "http://azure-cli-2019-05-22-09-11-09",
+  "password": "01d6f902-0a41-439e-b68c-6b77db123c32",
+  "tenant": "923c17c9-0f6d-49ff-83d7-0e8f3e74e930"
+
+
+
